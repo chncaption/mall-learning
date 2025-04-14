@@ -44,13 +44,13 @@
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper-spring-boot-starter</artifactId>
-            <version>1.2.10</version>
+            <version>1.4.7</version>
         </dependency>
         <!--集成druid连接池-->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid-spring-boot-starter</artifactId>
-            <version>1.1.10</version>
+            <version>1.2.21</version>
         </dependency>
         <!-- MyBatis 生成器 -->
         <dependency>
@@ -91,7 +91,7 @@
         <dependency>
             <groupId>com.nimbusds</groupId>
             <artifactId>nimbus-jose-jwt</artifactId>
-            <version>8.16</version>
+            <version>9.37.2</version>
         </dependency>
         <!--Spring Security RSA工具类-->
         <dependency>
